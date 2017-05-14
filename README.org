@@ -1,0 +1,9 @@
+#+TITLE: agda-brainfuck
+
+The beginnings of a brainfuck compiler written in agda which may eventually have some interesting features. Firstly, I want to work out how to prove properties of the programs. Here are some easy examples:
+- Prove that nops can be removed
+- Prove when loops don't terminate
+- Prove empty loops can be removed
+- Prove loops that are skipped can be removed
+
+
